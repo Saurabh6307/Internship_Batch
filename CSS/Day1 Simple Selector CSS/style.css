@@ -1,0 +1,27 @@
+/* Tag name Selector */
+
+/* p{
+    color: brown;
+} */
+
+/* Id selector */
+
+/* #h12{
+    color: blue;
+} */
+
+/* Class Selector */
+/* .flex{
+    color: red;
+} */
+
+/* Universal Selector */
+*{
+    background-color: black;
+    color: white;
+}
+
+/* Grouping Selector */
+#div2,.heading{
+    color: aqua;
+}
