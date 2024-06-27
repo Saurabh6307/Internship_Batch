@@ -1,0 +1,22 @@
+/* Descendent Selector */
+Article p{
+    color:red;
+}
+
+/* Direct Child selector  */
+article>p{
+    color: blue;
+}
+
+/* Immediate or adjacent sibling selector  */
+
+article + div{
+    color: green;
+}
+article+div+h2{
+    color: yellow;
+}
+/* General sibling selector  */
+article~span{
+    color: salmon;
+}

@@ -1,0 +1,16 @@
+/* for first child */
+article>:first-child{
+    color: red;
+}
+/* for last child */
+article>:last-child{
+    color: blue;
+}
+/* for nth child basic number */
+article :nth-child(5){
+    color: hotpink;
+}
+/* for nth child even and odd */
+article :nth-child(even){
+    color: skyblue;
+}
