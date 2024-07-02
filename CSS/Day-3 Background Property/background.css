@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color:white;   
+}
+section{
+    width: 100%;
+    height: 70%;
+    /* background-color: white; */
+    /* background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYg6mhdXk0ELHcmiBWgiVAQ6btq-gh5YDlOA&s'); */
+    background-image: url('./virat\ images.webp');  
+    background-size:100% 100%; 
+    background-size: 1000px 1200px;
+    background-repeat: no-repeat;
+    background-position: center;
+}

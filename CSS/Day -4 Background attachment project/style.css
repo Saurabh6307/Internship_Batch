@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+}
+section{
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.section-1{
+    background-image: url('https://www.arabnews.com/sites/default/files/styles/n_670_395/public/2023/10/19/4057411-1974011589.jpg?itok=zwWF6r3R');
+}
+.section-2{
+    background-image: url('https://akm-img-a-in.tosshub.com/indiatoday/images/story/202406/virat-kohli--anushka-sharma-304050310-16x9_0.jpg?VersionId=4B2Ftpzt1r04YXGzoMVmHqsJVzOAAIfy&size=690:388');
+}
+.section-3{
+    background-image: url('https://femina.wwmindia.com/content/2023/dec/virat-kohli-thumb1702286545.jpg');
+}
+.section-4{
+    background-image: url('https://d8it4huxumps7.cloudfront.net/uploads/images/65ba03fe09ee8_hardik_pandya_1.jpg?d=2000x2000');
+}
+.section-5{
+    background-image: url('https://ichef.bbci.co.uk/news/2048/cpsprodpb/1d36/live/1304a800-365f-11ef-88f3-6b74aebc5fc9.jpg');
+}
+.section-6{
+    background-image: url('https://cdn.britannica.com/48/252748-050-C514EFDB/Virat-Kohli-India-celebrates-50th-century-Cricket-November-15-2023.jpg');
+}
