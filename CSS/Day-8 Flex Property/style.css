@@ -1,0 +1,99 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+}
+.Cricketer{
+    width: 1200px;
+    height: 550px;
+    border: 4px solid black;
+    background-color: lightcyan; 
+    /* background-image: url(./indian-cricket.jpg); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    margin:120px auto;
+     display: flex; 
+     flex-direction: row;  
+   flex-wrap: wrap-reverse;  
+    align-content: flex-start; 
+    flex-flow: row wrap; 
+    gap: 40px 50px; 
+}
+.Player{
+    width: 180px;
+    height: 180px;
+    font-size: 35px;
+    text-align: center;
+    line-height: 150px;
+}
+.Player-1{
+     background-color: orange; 
+    background-image: url(./indian-cricket.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-color: black */
+    color:  red;
+    }
+
+.Player-2{
+    background-color: mediumseagreen;
+    background-image: url(./indian-cricket.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: red;
+}
+.Player-3{
+    background-color: magenta;
+    background-image: url(./indian-cricket.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: red;
+}
+.Player-4{
+    background-color: lightcoral;
+    background-image: url(./indian-cricket.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: red;
+}
+.Player-5{
+    background-color: mediumblue;
+    background-image: url(./indian-cricket.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:red;
+}
+.Player-6{
+    background-color: darkcyan;
+    background-image: url(./indian-cricket.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: red;
+}
+.Player-7{
+    background-color: darkgoldenrod;
+    background-image: url(./indian-cricket.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: red;
+}
+.Player-8{
+    background-color: tomato;
+    background-image: url(./indian-cricket.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: red;
+}
+.Player-9{
+    background-color: deeppink;
+    background-image: url(./indian-cricket.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: red;
+}
